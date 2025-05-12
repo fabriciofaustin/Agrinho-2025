@@ -1,0 +1,44 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    /* Corpo do site */
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8f5; /* cor suave e natural */
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+    }
+    
+    /* Cabeçalho */
+    header {
+    text-align: center;
+    padding: 20px;
+    background-color: #d6e6d6; /* tom de verde suave */
+    border-radius: 10px;
+    margin-bottom: 20px;
+    }
+    
+    header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: #060000; /* verde escuro */
+    }
+    
+    header img.banner {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    }
+    
+    /* Seções principais */
+    section {
+    margin-bottom: 30px;
+    padding: 15px;
+    background-color: #ffffff; /* fundo branco para destaque */
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
